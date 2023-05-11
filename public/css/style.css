@@ -1,0 +1,53 @@
+.container{
+    padding: 15px;
+}
+.logo{
+    font-size: 30px;
+    font-family: 'Reenie Beanie', cursive;
+    cursor: pointer;
+}
+.flex-start a{
+    text-decoration: none;
+    color:black;
+}
+.flex-start a:hover{
+    color: #5fa1df !important;
+}
+.flex-end a{
+    text-decoration: none;
+    color:black;
+    font-size: 20px;
+}
+.flex-end a:hover{
+    color: #5fa1df;
+}
+.activeItem{
+    border-bottom: 1px solid blue;
+    color: #5fa1df !important;
+}
+.title{
+    margin: 15px;
+    text-align: center;
+}
+.title  h1{
+    font-family: 'Foldit', cursive;
+    color: #5fa1df !important;
+}
+.title p{
+    color: black;
+}
+.homeSection{
+    margin-left: 450px;
+}
+.d-block{
+    height: 400px !important;
+}
+.form-control:focus{
+    box-shadow: none !important;
+    border: 1px solid #5fa1df !important;
+}
+.imgContact{
+    height: 450px;
+    margin-left: 150px;
+    margin-top: -40px;
+}
